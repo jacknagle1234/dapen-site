@@ -1,0 +1,13 @@
+{
+  "name": "dapen-site",
+  "version": "1.0.0",
+  "description": "DAPEN Website with USWDS support",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "uswds": "^3.7.0"
+  }
+}
