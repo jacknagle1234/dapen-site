@@ -1,0 +1,13 @@
+{
+  "name": "DAPEN USWDS Dev Environment",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "postCreateCommand": "npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint"]
+    }
+  }
+}
